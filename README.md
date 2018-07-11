@@ -1,2 +1,1 @@
-# frosty.github.io
-# Frosty Repo
+Frosty Repo
